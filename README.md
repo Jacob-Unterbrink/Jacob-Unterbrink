@@ -7,6 +7,7 @@ degree in data science and analytics. While I have a broad range of academic int
 In my free time I love to run, read, and watch sports. Additionally, I really enjoy meeting and getting to know new people. Feel free to contact me at jacobunterbrink@ou.edu
 
 LinkedIn: https://www.linkedin.com/in/jacob-unterbrink-a2563315a/
+
 Kaggle: https://www.kaggle.com/jacobunterbrink
 
 <!---
